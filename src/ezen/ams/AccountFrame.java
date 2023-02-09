@@ -106,7 +106,6 @@ public class AccountFrame extends Frame {
 		receiveLabel.setFont(font);
 		
 		
-		
 		/*buttonPanel = new Panel();
 		buttonPanel.add(sendButton);	
 		buttonPanel.add(cancelButton);*/
